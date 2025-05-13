@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 ![tvgithub](https://github.com/user-attachments/assets/c965aea0-9479-4f92-8177-b2d60f6523cd)
+![tvgithub](https://github.com/user-attachments/assets/c965aea0-9479-4f92-8177-b2d60f6523cd)
+![tvgithub](https://github.com/user-attachments/assets/c965aea0-9479-4f92-8177-b2d60f6523cd)
 
 
 # 💻 Tech Stack:
