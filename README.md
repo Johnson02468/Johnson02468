@@ -1,7 +1,9 @@
 ## Hi there 👋
 
+![nonegithub](Untitled%20(4%20x%206%20in)%201.png)
+
 [https://www.canva.com/design/DAGnSLvxIVM/CPK-SJO2NdVIOxpeiXpK1g/view?utm_content=DAGnSLvxIVM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
-](https://github.com/Johnson02468/Johnson02468/blob/30eda433c3b32d598d5b560bb5cd1df85d8b5499/Untitled%20(4%20x%206%20in)%201.png)
+![](https://github.com/Johnson02468/Johnson02468/blob/30eda433c3b32d598d5b560bb5cd1df85d8b5499/Untitled%20(4%20x%206%20in)%201.png)
 ![tvgithub](https://github.com/user-attachments/assets/c965aea0-9479-4f92-8177-b2d60f6523cd)
 
 
