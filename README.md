@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![tvgithub](https://github.com/Johnson02468/Johnson02468/blob/668c8e345d23908a0d29b21fb9669d2247a16f51/README.md)
-
+https://www.canva.com/design/DAGnSLvxIVM/CPK-SJO2NdVIOxpeiXpK1g/view?utm_content=DAGnSLvxIVM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview
 
 ![tvgithub](https://github.com/user-attachments/assets/c965aea0-9479-4f92-8177-b2d60f6523cd)
 
