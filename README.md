@@ -6,20 +6,20 @@ I’m an aspiring Data Analyst with a strong passion for data-driven problem-sol
 
 <h3>Skills I’m learning and using:</h3>
 
-<h4>Languages and tools:</h4> Python (Pandas) and SQL
+<h4>Languages and tools:</h4>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-<h4>Visualization:</h4>h4> Power Bi, Matplotlib, Seaborn 
+<h4>Visualization:</h4> 
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-3670A0?style=for-the-badge&logo=Seaborn&logoColor=ffdd54)
 
 
-<h4>Other:</h4> Jupyter Notebook, GitHub 
+<h4>Other:</h4> 
 
 ![Jupyter_Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23150458.svg?style=for-the-badge&logo=Jupyter_Notebook&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%2300C4CC.svg?style=for-the-badge&logo=GitHub&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<h4>What I’m working on:</h4>h4>
+<h4>What I’m working on:</h4>
 
 -Analyzing real-world datasets and sharing insights through visual dashboards 
 
