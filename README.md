@@ -41,9 +41,9 @@ I’m an aspiring Data Analyst with a strong passion for data-driven problem-sol
 
 <details>
   <summary> # 📊 GitHub Stats:</summary>
-<p>![](https://github-readme-stats.vercel.app/api?username=Johnson02468&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Johnson02468&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnson02468&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</p>
+  <p>![](https://github-readme-stats.vercel.app/api?username=Johnson02468&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=Johnson02468&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnson02468&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</p>
 </details>
 
 ### ✍️ Random Dev Quote
