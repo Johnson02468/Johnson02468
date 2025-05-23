@@ -35,7 +35,7 @@ I’m an aspiring Data Analyst with a strong passion for data-driven problem-sol
 
 ![](https://github.com/Johnson02468/Johnson02468/blob/76c7a44abc6187bf00e2af6b079912d42ab13cc1/uni.jpg)
 
-How do I change the font of github stats 
+ 
 <details>
   <summary><b>📊 GitHub Stats</b></summary>
 
