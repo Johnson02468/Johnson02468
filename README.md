@@ -34,17 +34,6 @@ I’m an aspiring Data Analyst with a strong passion for data-driven problem-sol
 
 ![](https://github.com/Johnson02468/Johnson02468/blob/76c7a44abc6187bf00e2af6b079912d42ab13cc1/uni.jpg)
 
-<details>
-  <summary>Epcot Center</summary>
-  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
-</details>
-Why aren't the images automatically being displayed
-<details>
-  <summary> # 📊 GitHub Stats:</summary>
-  <p>![](https://github-readme-stats.vercel.app/api?username=Johnson02468&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=Johnson02468&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnson02468&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</p>
-</details>
 
 <details>
   <summary>📊 GitHub Stats</summary>
