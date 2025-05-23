@@ -1,4 +1,32 @@
 ## Hi there 👋
+
+Hi there, I’m Donte. 
+
+I’m an aspiring Data Analyst with a strong passion for data-driven problem-solving. Currently I’m building my skills in data analysis, visualization, and story-telling while working on hands-on projects to grow my portfolio. 
+
+Skills I’m learning and using:
+
+Languages and tools: Python (Pandas) and SQL 
+
+Visualization: Power Bi, Matplotlib, Seaborn 
+
+Other: Jupyter Notebook, GitHub 
+
+
+
+What I’m working on: 
+
+-Analyzing real-world datasets and sharing insights through visual dashboards 
+
+-Learning statistical analysis and data cleaning techniques 
+
+-Documenting projects to showcase my progress and learning journey 
+
+
+Most recent project: 
+
+[USDA Project] 
+
 ![](https://github.com/Johnson02468/Johnson02468/blob/76c7a44abc6187bf00e2af6b079912d42ab13cc1/uni.jpg)
 
 # 💻 Tech Stack:
