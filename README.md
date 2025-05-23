@@ -17,7 +17,7 @@ Visualization: Power Bi, Matplotlib, Seaborn
 
 Other: Jupyter Notebook, GitHub 
 
-
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter Notebook-%23150458.svg?style=for-the-badge&logo=Jupyter Notebook&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%2300C4CC.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 
 What I’m working on: 
 
