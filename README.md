@@ -18,7 +18,7 @@ I’m an aspiring Data Analyst with a strong passion for data-driven problem-sol
 <h4>Other:</h4> 
 
 ![Jupyter_Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23150458.svg?style=for-the-badge&logo=Jupyter_Notebook&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%2300C4CC.svg?style=for-the-badge&logo=GitHub&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
+<hr>
 <h4>What I’m working on:</h4>
 
 -Analyzing real-world datasets and sharing insights through visual dashboards 
