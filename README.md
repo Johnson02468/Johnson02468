@@ -6,9 +6,6 @@ I’m an aspiring Data Analyst with a strong passion for data-driven problem-sol
 
 <h3 style="text-align:center"> Skills I’m learning and using:</h3>
 
-<div align="center">
-  <h3>Skills I’m learning and using:</h3>
-</div>
 
 <h4>Languages and tools:</h4>
 
