@@ -17,7 +17,7 @@ Visualization: Power Bi, Matplotlib, Seaborn
 
 Other: Jupyter Notebook, GitHub 
 
-![Jupyter_Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23150458.svg?style=for-the-badge&logo=Jupyter_Notebook&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%2300C4CC.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+![Jupyter_Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23150458.svg?style=for-the-badge&logo=Jupyter_Notebook&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%2300C4CC.svg?style=for-the-badge&logo=GitHub&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 What I’m working on: 
 
