@@ -4,10 +4,10 @@ Hi there, I’m Donte.
 
 I’m an aspiring Data Analyst with a strong passion for data-driven problem-solving. Currently I’m building my skills in data analysis, visualization, and story-telling while working on hands-on projects to grow my portfolio. 
 
-<h3 style="text-align:center"> Skills I’m learning and using:</h3>
+<h3 style="text-align:center"> Skills I’m Learning and Using:</h3>
 
 
-<h4>Languages and tools:</h4>
+<h4>Languages and Tools:</h4>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 <hr>
@@ -20,7 +20,7 @@ I’m an aspiring Data Analyst with a strong passion for data-driven problem-sol
 
 ![Jupyter_Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23150458.svg?style=for-the-badge&logo=Jupyter_Notebook&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%2300C4CC.svg?style=for-the-badge&logo=GitHub&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 <hr>
-<h4>What I’m working on:</h4>
+<h4>What I’m Working On:</h4>
 
 -Analyzing real-world datasets and sharing insights through visual dashboards 
 
@@ -29,7 +29,7 @@ I’m an aspiring Data Analyst with a strong passion for data-driven problem-sol
 -Documenting projects to showcase my progress and learning journey 
 
 
-<h4>Most recent project:</h4>
+<h4>Most Recent Project:</h4>
 
 [USDA Project] 
 
