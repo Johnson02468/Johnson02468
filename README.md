@@ -4,7 +4,7 @@ Hi there, I’m Donte.
 
 I’m an aspiring Data Analyst with a strong passion for data-driven problem-solving. Currently I’m building my skills in data analysis, visualization, and story-telling while working on hands-on projects to grow my portfolio. 
 
-<h3>Skills I’m learning and using:</h3>
+<button onClick="toggle()"> <h3>Skills I’m learning and using:</h3> </button>
 
 <h4>Languages and tools:</h4>
 
