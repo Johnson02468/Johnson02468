@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-https://github.com/Johnson02468/Johnson02468/blob/4fec47a2818d49a9ea1fa33308e651c813291ef5/Untitled%20design%206.png
-
 ![Header](https://github.com/Johnson02468/Johnson02468/blob/4fec47a2818d49a9ea1fa33308e651c813291ef5/Untitled%20design%206.png)
 
 Hi there, I’m Donte. 
@@ -53,8 +51,7 @@ I’m an aspiring Data Analyst with a strong passion for data-driven problem-sol
 
 </details>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![Header](https://github.com/Johnson02468/Johnson02468/blob/4fec47a2818d49a9ea1fa33308e651c813291ef5/Untitled%20design%206.png)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Johnson02468&icon=0&color=0)](https://visitcount.itsvg.in)
