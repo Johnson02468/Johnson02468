@@ -9,7 +9,9 @@ Currently I’m building my skills in data analysis, visualization, and story-te
 
 <h3 style="text-align:center"> Skills I’m Learning and Using:</h3>
 
-
+<div>
+  <img src="https://github.com/Johnson02468/Johnson02468/blob/76c7a44abc6187bf00e2af6b079912d42ab13cc1/uni.jpg?raw=true" align="right" width="250">
+  <p>
 <h4>Languages and Tools:</h4>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -30,17 +32,14 @@ Currently I’m building my skills in data analysis, visualization, and story-te
 -Learning statistical analysis and data cleaning techniques 
 
 -Documenting projects to showcase my progress and learning journey 
-
+</p>
+</div>
 
 <h4>Most Recent Project:</h4>
 
 <a href="https://github.com/Johnson02468/Johnson248/blob/main/USDA/USDA%20Commodity%20Project-Final.ipynb">[USDA Project]</a>
 
-<h2>float: right</h2>
-<p>This is some text. <img src="smiley.gif" alt="Smiley face" width="42" height="42" style="float:right">This is some text. This is some text. This is some text.</p>
 
-<h2>float: right</h2>
-<p>This is some text. <img src=![](https://github.com/Johnson02468/Johnson02468/blob/76c7a44abc6187bf00e2af6b079912d42ab13cc1/uni.jpg) style="float:right">This is some text. This is some text. This is some text.</p>
 
 How do i format this picture to the right
 
