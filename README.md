@@ -2,16 +2,16 @@
 
 
 ![Header](https://github.com/Johnson02468/Johnson02468/blob/db0d6c97fe0e61f1d5631f31187c36c80f3cadcf/Untitled%20design%208.png)
-
+<div>
+  <img src="https://github.com/Johnson02468/Johnson02468/blob/76c7a44abc6187bf00e2af6b079912d42ab13cc1/uni.jpg?raw=true" align="right" width="250">
+  <p>
 Hi there, I’m Donte. 
 
 Currently I’m building my skills in data analysis, visualization, and story-telling while working on hands-on projects to grow my portfolio. 
 
 <h3 style="text-align:center"> Skills I’m Learning and Using:</h3>
 
-<div>
-  <img src="https://github.com/Johnson02468/Johnson02468/blob/76c7a44abc6187bf00e2af6b079912d42ab13cc1/uni.jpg?raw=true" align="right" width="250">
-  <p>
+
 <h4>Languages and Tools:</h4>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -24,6 +24,10 @@ Currently I’m building my skills in data analysis, visualization, and story-te
 <h4>Other:</h4> 
 
 ![Jupyter_Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23150458.svg?style=for-the-badge&logo=Jupyter_Notebook&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%2300C4CC.svg?style=for-the-badge&logo=GitHub&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</p>
+</div>
+
 <hr>
 <h4>What I’m Working On:</h4>
 
@@ -32,8 +36,7 @@ Currently I’m building my skills in data analysis, visualization, and story-te
 -Learning statistical analysis and data cleaning techniques 
 
 -Documenting projects to showcase my progress and learning journey 
-</p>
-</div>
+
 
 <h4>Most Recent Project:</h4>
 
