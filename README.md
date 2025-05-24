@@ -42,8 +42,16 @@ Currently I’m building my skills in data analysis, visualization, and story-te
 <h2>float: right</h2>
 <p>This is some text. <img src=![](https://github.com/Johnson02468/Johnson02468/blob/76c7a44abc6187bf00e2af6b079912d42ab13cc1/uni.jpg) style="float:right">This is some text. This is some text. This is some text.</p>
 
+How do i format this picture to the right
 
 ![](https://github.com/Johnson02468/Johnson02468/blob/76c7a44abc6187bf00e2af6b079912d42ab13cc1/uni.jpg)
+
+<div>
+  <img src="https://github.com/Johnson02468/Johnson02468/blob/76c7a44abc6187bf00e2af6b079912d42ab13cc1/uni.jpg?raw=true" align="right" width="250">
+  <p>
+    Hi, I'm Johnson! I'm passionate about learning full-stack development, building practical projects, and exploring data structures and algorithms. I'm currently diving deeper into React, Node.js, and backend architecture.
+  </p>
+</div>
 
  
 <details>
