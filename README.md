@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-https://github.com/Johnson02468/Johnson02468/blob/69271e3a740cfdb3aee9eedc9ac454fd7c9b248f/Untitled%20design%207.png
 
 ![Header](https://github.com/Johnson02468/Johnson02468/blob/69271e3a740cfdb3aee9eedc9ac454fd7c9b248f/Untitled%20design%207.png)
 
