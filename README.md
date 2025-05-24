@@ -2,6 +2,7 @@
 
 
 ![Header](https://github.com/Johnson02468/Johnson02468/blob/db0d6c97fe0e61f1d5631f31187c36c80f3cadcf/Untitled%20design%208.png)
+
 <div>
   <img src="https://github.com/Johnson02468/Johnson02468/blob/76c7a44abc6187bf00e2af6b079912d42ab13cc1/uni.jpg?raw=true" align="right" width="250">
   <p>
@@ -25,8 +26,6 @@ Currently I’m building my skills in data analysis, visualization, and story-te
 
 ![Jupyter_Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23150458.svg?style=for-the-badge&logo=Jupyter_Notebook&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%2300C4CC.svg?style=for-the-badge&logo=GitHub&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-</p>
-</div>
 
 <hr>
 <h4>What I’m Working On:</h4>
@@ -36,7 +35,8 @@ Currently I’m building my skills in data analysis, visualization, and story-te
 -Learning statistical analysis and data cleaning techniques 
 
 -Documenting projects to showcase my progress and learning journey 
-
+</p>
+</div>
 
 <h4>Most Recent Project:</h4>
 
@@ -47,13 +47,6 @@ Currently I’m building my skills in data analysis, visualization, and story-te
 How do i format this picture to the right
 
 ![](https://github.com/Johnson02468/Johnson02468/blob/76c7a44abc6187bf00e2af6b079912d42ab13cc1/uni.jpg)
-
-<div>
-  <img src="https://github.com/Johnson02468/Johnson02468/blob/76c7a44abc6187bf00e2af6b079912d42ab13cc1/uni.jpg?raw=true" align="right" width="250">
-  <p>
-    Hi, I'm Johnson! I'm passionate about learning full-stack development, building practical projects, and exploring data structures and algorithms. I'm currently diving deeper into React, Node.js, and backend architecture.
-  </p>
-</div>
 
  
 <details>
