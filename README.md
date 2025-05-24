@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-https://github.com/Johnson02468/Johnson02468/blob/5bb29ba3f1241bca0db5c413f5cf21ec6c453f2e/Untitled%20design%205.png
-
-![Header](./your-header-image-name.png)
 
 ![Header](https://github.com/Johnson02468/Johnson02468/blob/5bb29ba3f1241bca0db5c413f5cf21ec6c453f2e/Untitled%20design%205.png)
 
