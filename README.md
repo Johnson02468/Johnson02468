@@ -36,6 +36,12 @@ Currently I’m building my skills in data analysis, visualization, and story-te
 
 <a href="https://github.com/Johnson02468/Johnson248/blob/main/USDA/USDA%20Commodity%20Project-Final.ipynb">[USDA Project]</a>
 
+<h2>float: right</h2>
+<p>This is some text. <img src="smiley.gif" alt="Smiley face" width="42" height="42" style="float:right">This is some text. This is some text. This is some text.</p>
+
+<h2>float: right</h2>
+<p>This is some text. <img src=![](https://github.com/Johnson02468/Johnson02468/blob/76c7a44abc6187bf00e2af6b079912d42ab13cc1/uni.jpg) style="float:right">This is some text. This is some text. This is some text.</p>
+
 
 ![](https://github.com/Johnson02468/Johnson02468/blob/76c7a44abc6187bf00e2af6b079912d42ab13cc1/uni.jpg)
 
