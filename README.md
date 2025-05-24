@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![Header](https://github.com/Johnson02468/Johnson02468/blob/69271e3a740cfdb3aee9eedc9ac454fd7c9b248f/Untitled%20design%207.png)
+![Header](https://github.com/Johnson02468/Johnson02468/blob/db0d6c97fe0e61f1d5631f31187c36c80f3cadcf/Untitled%20design%208.png)
 
 Hi there, I’m Donte. 
 
@@ -52,7 +52,7 @@ I’m an aspiring Data Analyst with a strong passion for data-driven problem-sol
 
 </details>
 
-![Header](https://github.com/Johnson02468/Johnson02468/blob/69271e3a740cfdb3aee9eedc9ac454fd7c9b248f/Untitled%20design%207.png)
+![Header](https://github.com/Johnson02468/Johnson02468/blob/db0d6c97fe0e61f1d5631f31187c36c80f3cadcf/Untitled%20design%208.png)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Johnson02468&icon=0&color=0)](https://visitcount.itsvg.in)
