@@ -1,7 +1,8 @@
 ## Hi there 👋
 
+https://github.com/Johnson02468/Johnson02468/blob/4fec47a2818d49a9ea1fa33308e651c813291ef5/Untitled%20design%206.png
 
-![Header](https://github.com/Johnson02468/Johnson02468/blob/5bb29ba3f1241bca0db5c413f5cf21ec6c453f2e/Untitled%20design%205.png)
+![Header](https://github.com/Johnson02468/Johnson02468/blob/4fec47a2818d49a9ea1fa33308e651c813291ef5/Untitled%20design%206.png)
 
 Hi there, I’m Donte. 
 
