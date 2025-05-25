@@ -3,9 +3,7 @@
 
 ![Header](https://github.com/Johnson02468/Johnson02468/blob/db0d6c97fe0e61f1d5631f31187c36c80f3cadcf/Untitled%20design%208.png)
 
-<div>
-  <img src="https://github.com/Johnson02468/Johnson02468/blob/76c7a44abc6187bf00e2af6b079912d42ab13cc1/uni.jpg?raw=true" align="right" width="250">
-  <p>
+
 Hi there, I’m Donte. 
 
 Currently I’m building my skills in data analysis, visualization, and story-telling while working on hands-on projects to grow my portfolio. 
