@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 ![Header](https://github.com/Johnson02468/Johnson02468/blob/db0d6c97fe0e61f1d5631f31187c36c80f3cadcf/Untitled%20design%208.png)
 
 
