@@ -64,6 +64,8 @@ Currently I’m building my skills in data analysis, visualization, and story-te
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+ <img src="https://github.com/Johnson02468/Johnson02468/blob/76c7a44abc6187bf00e2af6b079912d42ab13cc1/uni.jpg?raw=true" align="right" width="250">
+
 <!--
 **Johnson02468/Johnson02468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
