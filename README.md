@@ -4,9 +4,11 @@
 ![Header](https://github.com/Johnson02468/Johnson02468/blob/db0d6c97fe0e61f1d5631f31187c36c80f3cadcf/Untitled%20design%208.png)
 
 
-Hi there, I’m Donte. 
+I’m Donte. 
 
-Currently I’m building my skills in data analysis, visualization, and story-telling while working on hands-on projects to grow my portfolio. 
+
+As an aspiring data analyst, I’m passionate about turning data into actionable insights that drive decision-making and innovation. Currently, I’m building my skills in data analysis, visualization, and story-telling while working on hands-on projects to grow my portfolio. My goal is to apply these skills in real-world environments to solve meaningful problems and contribute to data-driven strategies.
+
 
 <h3 style="text-align:center"> Skills I’m Learning and Using:</h3>
 
